@@ -18,6 +18,8 @@ struct ContentView: View {
     
     var converted : Double = 0.0
     
+    //do calculations
+    
     var body: some View {
         NavigationView{
             Form{
